@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml:1:1-72
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml:1:1-72
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml:1:1-72
+	package
+		INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+		ADDED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml:1:1-72
+		INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+		ADDED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+		INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+		ADDED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
+		INJECTED from C:\RFID\N-ScanHubForAndroid_V1.0.2\serial-port\src\main\AndroidManifest.xml
